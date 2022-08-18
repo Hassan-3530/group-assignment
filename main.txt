@@ -1,20 +1,5 @@
-This is in remote repository
+This is in remote repository 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hii guys this is manoj this side. 
 This line was added in hassan's branch repository!
+
+Hii guys this is manoj this side.
